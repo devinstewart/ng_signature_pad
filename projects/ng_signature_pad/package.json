@@ -1,0 +1,29 @@
+{
+  "name": "ng_signature_pad",
+  "version": "1.0.0",
+  "description": "Angular Component wrapper for szimek / signature_pad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinstewart/ng_signature_pad"
+  },
+  "keywords": [
+    "signature",
+    "sign",
+    "finger",
+    "canvas"
+  ],
+  "author": "Devin Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devinstewart/ng_signature_pad"
+  },
+  "homepage": "https://github.com/devinstewart/ng_signature_pad",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+    "@angular/core": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0",
+    "signature_pad": "2.3.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
